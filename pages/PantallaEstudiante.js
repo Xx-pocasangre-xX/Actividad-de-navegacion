@@ -15,7 +15,7 @@ export default function PantallaEstudiante({ navigation }) {
   
   // Datos del estudiante que se pasarán como props al componente
   const datosEstudiante = {
-    nombre: 'Tu Nombre Completo', // Reemplazar con el nombre real
+    nombre: 'Ricardo Daniel Garcia Pocasngre', // Reemplazar con el nombre real
     edad: 18, // Reemplazar con la edad real
     imagen: require('../assets/20230620.jpg'), // Imagen local desde assets
     carrera: 'Desarrollo de Software',
